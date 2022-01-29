@@ -20,7 +20,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="https://sanyampunia.github.io/" width="22px" src="https://img.icons8.com/color/50/000000/geography--v3.png" />][website]
 [<img align="left" alt="Twitter" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
 [<img align="left" alt="Twitter" width="22px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
 [<img align="left" alt="Twitter" width="22px" src="https://img.icons8.com/fluency/48/000000/linkedin-circled.png" />][linkedin]
@@ -33,7 +32,6 @@
 
 <br/>
 
-[website]: https://theishanbh.netlify.app/
 [instagram]: https://instagram.com/daspectro
 [twitter]: https://twitter.com/theishanbh
 [linkedin]: https://linkedin.com/in/theishanbh
