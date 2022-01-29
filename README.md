@@ -1,10 +1,10 @@
-[![Sanyam, Full Stack Web Developer & Music Producer](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=Full%20Stack%20Web%20Developer%20%26%20Music%20Producer&title=Sanyam)](https://pimp-my-readme.webapp.io)
+[![Sanyam, Full Stack Web Developer](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=Full%20Stack%20Web%20Developer&title=Ishan)](https://pimp-my-readme.webapp.io)
 
-### Hi there, I'm Sanyam Punia 👋
+### Hi there, I'm Ishan Bhardwaj 👋
 
 - 🔭 I’m currently working on Various Web Applications
 - 🌱 I’m currently learning ReactJS, NextJS
-- 📫 You can reach me at my mail: lewarends@gmail.com
+- 📫 You can reach me at my mail: theishanbh@gmail.com
 - 📑 I also write technical articles on medium. Check them out [here]
 - 🎵 I also produce Music. Find me on soundcloud [@prodmxle](https://soundcloud.com/prodmxle)
 
@@ -25,23 +25,21 @@
 [<img align="left" alt="https://sanyampunia.github.io/" width="22px" src="https://img.icons8.com/color/50/000000/geography--v3.png" />][website]
 [<img align="left" alt="YouTube" width="22px" src="https://img.icons8.com/color/48/000000/soundcloud.png"/>][soundcloud]
 [<img align="left" alt="Twitter" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
-[<img align="left" alt="Twitter" width="22px" src="https://img.icons8.com/fluent/48/000000/spotify.png" />][spotify]
-[<img align="left" alt="Discord" width="22px" src="https://img.icons8.com/fluency/48/000000/discord-logo.png" />][discord]
+[<img align="left" alt="Twitter" width="22px" src="https://img.icons8.com/fluent/48/000000/instagram.png" />][instagram]
 
 <br/>
 
 ### ⚡ GitHub Stats
   
-[![Sanyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=SanyamPunia&show_icons=true&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Sanyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=theishanbh&show_icons=true&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
-[website]: https://sanyampunia.github.io/
-[soundcloud]: https://soundcloud.com/prodmxle
-[twitter]: https://twitter.com/prodmxle
-[spotify]: https://open.spotify.com/artist/2QbtOIjb8mUIsnCNqvyWAW?si=a47ce93f69dd4a5d
+[website]: https://theishanbh.netlify.app/
+[instagram]: https://instagram.com/daspectro
+[twitter]: https://twitter.com/theishanbh
 [discord]: https://discord.gg/35me98GxdF
 [here]: https://medium.com/@prodmxle
 
-![visitors](https://page-views.glitch.me/badge?page_id=SanyamPunia.visitor-badge)
+![visitors](https://page-views.glitch.me/badge?page_id=theishanbh.visitor-badge)
 
