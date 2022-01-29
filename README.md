@@ -5,8 +5,6 @@
 - 🔭 I’m currently working on Various Web Applications
 - 🌱 I’m currently learning ReactJS, NextJS
 - 📫 You can reach me at my mail: theishanbh@gmail.com
-- 📑 I also write technical articles on medium. Check them out [here]
-- 🎵 I also produce Music. Find me on soundcloud [@prodmxle](https://soundcloud.com/prodmxle)
 
 ### 🛠 Tech Stack
 
@@ -31,7 +29,7 @@
 
 ### ⚡ GitHub Stats
   
-[![Sanyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=theishanbh&show_icons=true&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Ishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=theishanbh&show_icons=true&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
