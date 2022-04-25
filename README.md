@@ -33,12 +33,6 @@
 
 <br/>
 
-### ⚡ GitHub Stats
-  
-[![Ishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=theishanbh&show_icons=true&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<br/>
-
 [instagram]: https://instagram.com/daspectro
 [twitter]: https://twitter.com/theishanbh
 [linkedin]: https://linkedin.com/in/theishanbh
