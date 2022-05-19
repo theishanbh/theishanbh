@@ -21,6 +21,8 @@
 ![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=firebase&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=go&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=firebase&logoColor=black)
 
 
 ***...and many more!***
