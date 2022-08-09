@@ -1,5 +1,3 @@
-[![Ishan, Full Stack Web Developer](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=Full%20Stack%20Web%20Developer&title=Ishan)](https://pimp-my-readme.webapp.io)
-
 ### Hi there, I'm Ishan Bhardwaj 👋
 
 - 🔭 I’m currently working on Web Applications & Making Developer Tools Using GO
