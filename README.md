@@ -8,7 +8,7 @@ I'm Ishan, a Fullstack Developer!
 - **Seeking:** SDE/Frontend/Backend Roles!
 
 ### 🛠️ My Skills
-- **Frontend:** HTML, CSS, Tailwind CSS, Shadcn/ui, JavaScript, ReactJS, Vue
+- **Frontend:** ReactJS, Redux, ReactHooks, Vue, Tailwind CSS, Shadcn/ui
 - **Backend:** Javaascript, Python, C/C++, Go
 - **Full Stack:** Next.js, TypeScript, NuxtJs
 - **Testing:** Jest
