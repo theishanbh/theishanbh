@@ -1,20 +1,28 @@
-### Hi there, I'm Ishan Bhardwaj 👋
+# Hi there! 👋
 
-- 🔭 I’m currently working on Web Applications & Making Developer Tools Using GO
-- 🌱 I’m currently learning Go
-- 📫 You can reach me at my mail: theishanbh@gmail.com
+I'm Ishan, a Fullstack Developer!
 
-### Connect with me:
+### 🌍 About Me
+- **Education:** B.Tech in Information Technology from Delhi Technological University, IN
+- **Interests:** Next.js, TypeScript, Node/Express
+- **Seeking:** SDE/Frontend/Backend Roles!
 
-[<img align="left" alt="Twitter" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
-[<img align="left" alt="Twitter" width="22px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
-[<img align="left" alt="Twitter" width="22px" src="https://img.icons8.com/fluency/48/000000/linkedin-circled.png" />][linkedin]
+### 🛠️ My Skills
+- **Frontend:** HTML, CSS, Tailwind CSS, Shadcn/ui, JavaScript, ReactJS, Vue
+- **Backend:** Javaascript, Python, C/C++, Go
+- **Full Stack:** Next.js, TypeScript, NuxtJs
+- **Testing:** Jest
+- **Tools:** Git, Selenium
+- **Databases:** SQL(MySQL, Postgres), NoSQL(MongoDB), Supabase
 
-<br/>
+### 📚 Currently Learning
+- **Data Structures and Algorithms**
 
-[instagram]: https://instagram.com/daspectro
-[twitter]: https://twitter.com/theishanbh
-[linkedin]: https://linkedin.com/in/theishanbh
+### 🌐 My Portfolio
+- [Portfolio]([https://portfolio-v3-steel.vercel.app/](https://portfolio-v3-steel.vercel.app/))
 
-![visitors](https://page-views.glitch.me/badge?page_id=theishanbh.visitor-badge)
+I'm excited to keep learning & grow my skills, to contribute to innovative projects and collaborate with other developers. Feel free to reach out!
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theishanbh&show_icons=true&locale=en&layout=compact" alt="theishanbh" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theishanbh&show_icons=true&locale=en" alt="theishanbh" /></p>
